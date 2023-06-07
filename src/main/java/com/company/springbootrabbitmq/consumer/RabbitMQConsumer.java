@@ -1,6 +1,5 @@
 package com.company.springbootrabbitmq.consumer;
 
-import com.company.springbootrabbitmq.publisher.RabbitMQProducer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
