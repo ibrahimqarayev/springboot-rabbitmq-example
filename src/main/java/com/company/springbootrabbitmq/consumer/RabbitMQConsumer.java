@@ -17,4 +17,5 @@ public class RabbitMQConsumer {
         LOGGER.info(String.format("Received message -> %s", message));
     }
 
+
 }
