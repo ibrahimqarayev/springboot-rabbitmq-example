@@ -15,5 +15,4 @@ public class RabbitMQJsonConsumer {
     public void consumeJsonMessage(User user) {
         LOGGER.info(String.format("Json message received -> %s", user.toString()));
     }
-
 }
